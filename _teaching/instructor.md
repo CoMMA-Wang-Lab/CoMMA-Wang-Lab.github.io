@@ -1,3 +1,10 @@
+---
+title: "Instructor"
+collection: teaching
+layout: page
+permalink: /teaching/instructor
+---
+
 ## Instructor
 
 ### CHEN 3360 Chemical Reaction Engineering, **The University of Texas at Tyler**, Spring 2026
