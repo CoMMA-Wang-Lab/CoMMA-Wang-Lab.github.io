@@ -1,5 +1,4 @@
 ---
-title: "Instructor"
 collection: teaching
 layout: single
 permalink: /teaching/instructor/
