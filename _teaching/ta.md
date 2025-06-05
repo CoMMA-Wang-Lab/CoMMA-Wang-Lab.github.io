@@ -4,7 +4,7 @@ layout: page
 permalink: /teaching/
 ---
 
-## Teaching Assistant Experience
+## Teaching Assistant
 
 ### CBE 30338 – Chemical Process Control  
 **University of Notre Dame**, Spring 2022  
