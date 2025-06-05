@@ -1,8 +1,10 @@
 ---
 title: "Instructor"
 collection: teaching
-layout: page
-permalink: /teaching/instructor
+layout: single
+permalink: /teaching/instructor/
+author_profile: false
+classes: wide
 ---
 
 ## Instructor
