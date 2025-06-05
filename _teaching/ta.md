@@ -1,4 +1,5 @@
 ---
+title: "Teaching Assistant"
 collection: teaching
 layout: single
 permalink: /teaching/ta/
@@ -6,8 +7,6 @@ author_profile: false
 classes: wide
 date: 2022-02-01
 ---
-
-## Teaching Assistant
 
 ### CBE 30338 - Chemical Process Control  
 **University of Notre Dame**, Spring 2022  
