@@ -1,33 +1,12 @@
 ---
-layout: single
+layout: archive
 title: "Teaching"
-author_profile: false
-classes: wide
+permalink: /teaching/
+author_profile: true
 ---
 
-## Teaching
+{% include base_path %}
 
-### CHEN 3360 Chemical Reaction Engineering, **The University of Texas at Tyler**, Spring 2026
-
-### CHEN 3320 Mass transfer
-**The University of Texas at Tyler**, Spring 2026
-
-### CHEN 2310 Introduction to Chemical Engineering
-**The University of Texas at Tyler**, Fall 2025
-
-## Teaching Assistant
-
-### CBE 30338 Chemical Process Control  
-**University of Notre Dame**, Spring 2022  
-
-### CBE 20255 Introduction to Chemical Engineering Analysis  
-**University of Notre Dame**, Fall 2021  
-
-### CBE 20258 Numerical and Statistical Analysis
-**University of Notre Dame**, Spring 2021
-
-### CBE 60553 Advanced Thermodynamics
-**University of Notre Dame**, Fall 2020
-
-### MSE 536 Electronic Properties of Materials
-**University of Pennsylvania**, Spring 2020 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
