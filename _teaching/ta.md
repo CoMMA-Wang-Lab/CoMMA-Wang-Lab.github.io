@@ -5,6 +5,7 @@ layout: single
 permalink: /teaching/ta/
 author_profile: false
 classes: wide
+date: 2022-02-01
 ---
 
 ## Teaching Assistant
