@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "CBE 30338 Chemical Process Control"
+permalink: /teaching/TA
+venue: "University of Notre Dame"
+date: Spring 2022
+type: "CBE 20255 Introduction to Chemical Engineering Analysis"
+permalink: /teaching/TA
+venue: "University of Notre Dame"
+date: Fall 2021
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
