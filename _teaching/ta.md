@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 layout: page
-permalink: /teaching/ta/
+permalink: /teaching/
 ---
 
 ## Teaching Assistant Experience
