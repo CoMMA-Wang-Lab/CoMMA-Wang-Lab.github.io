@@ -2,7 +2,8 @@
 title: "Teaching Assistant"
 collection: teaching
 layout: single
-permalink: /teaching/ta
+permalink: /teaching/ta/
+author_profile: false
 classes: wide
 ---
 
