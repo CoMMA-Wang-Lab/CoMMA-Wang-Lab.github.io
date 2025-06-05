@@ -1,7 +1,8 @@
 ---
 title: "Teaching Assistant"
+collection: teaching
 layout: page
-permalink: /teaching/
+permalink: /teaching/ta
 ---
 
 ## Teaching Assistant
