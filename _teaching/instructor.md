@@ -5,6 +5,7 @@ layout: single
 permalink: /teaching/instructor/
 author_profile: false
 classes: wide
+date: 2025-09-01
 ---
 
 ## Instructor
