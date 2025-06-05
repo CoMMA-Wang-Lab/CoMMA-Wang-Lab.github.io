@@ -1,5 +1,4 @@
 ---
-title: "Teaching Assistant"
 collection: teaching
 layout: single
 permalink: /teaching/ta/
