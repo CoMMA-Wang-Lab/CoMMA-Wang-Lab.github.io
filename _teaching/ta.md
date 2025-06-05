@@ -1,8 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-layout: page
+layout: single
 permalink: /teaching/ta
+classes: wide
 ---
 
 ## Teaching Assistant
