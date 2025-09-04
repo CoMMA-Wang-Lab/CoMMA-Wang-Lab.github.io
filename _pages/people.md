@@ -6,7 +6,7 @@ sidebar:
   nav: none
 ---
 
-# Principal Investigator
+## Principal Investigator
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
