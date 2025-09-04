@@ -6,6 +6,8 @@ sidebar:
   nav: none
 ---
 
+# Meet our team!
+
 ## Principal Investigator
 <table>
   <tr>
