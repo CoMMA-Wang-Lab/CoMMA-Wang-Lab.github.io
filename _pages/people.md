@@ -1,12 +1,11 @@
 ---
 permalink: /People/
 layout: single
+title: Meet out team!
 author_profile: false
 sidebar:
   nav: none
 ---
-
-# Meet our team!
 
 ## Principal Investigator
 <table>
