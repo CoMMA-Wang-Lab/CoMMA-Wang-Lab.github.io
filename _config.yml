@@ -13,7 +13,7 @@ title                    : "CoMMA Lab"
 title_separator          : "-"
 name                     : &name "Dr. Ning Wang"
 description              : &description "personal description"
-url                      : https://CoMMA-Wang-Lab.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://CoMMA-Wang-Lab.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CoMMA-Wang-Lab/CoMMA-Wang-Lab.github.io"
 
@@ -22,13 +22,13 @@ repository               : "CoMMA-Wang-Lab/CoMMA-Wang-Lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ning.JPG"
   name             : "Dr. Ning Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "The University of Texas at Tyler"
-  uri              : # URL
+  pronouns         : #"she/her"  
+  bio              : 'Assistant Professor<br><a href="https://www.uttyler.edu/academics/colleges-schools/engineering/departments/chemical/" target="_blank" style="color: inherit; text-decoration: none;">The Jasper Department of Chemical Engineering</a>' #"Assistant Professor<br>The Jasper Department of Chemical Engineering"
+  location         : "Tyler, TX"
+  employer         : "University of Texas at Tyler"
+  uri              : "https://comma-wang-lab.github.io"
   email            : "nwang@uttyler.edu" 
 
   # Academic websites
@@ -77,12 +77,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+  #  title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #conferences:
+  #  title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -130,19 +130,19 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : &twitter
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics

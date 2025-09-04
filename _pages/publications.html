@@ -2,35 +2,73 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<a href="https://scholar.google.com/citations?user=-2ga4rAAAAAJ&hl=en&oi=ao" target="_blank">
+  Google Scholar profile
+</a>
 
-{% include base_path %}
+<!-- <h2>Before UT Tyler:</h2> -->
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul>
+  <li>
+    <strong>Ning Wang</strong>,
+    <a href="https://doi.org/10.7274/25527766" target="_blank">
+      Development of advanced computational methods for accurate property prediction of fluids: Application to hydrofluorocarbon/ionic liquid mixtures</a>,
+    University of Notre Dame, 2024
+  </li>
 
+  <li>
+    Kalin Baca, Karim Al-Barghouti, <strong>Ning Wang</strong>, et al.,
+    <a href="https://doi.org/10.1021/acs.chemrev.3c00276" target="_blank">
+      Ionic liquids for the separation of fluorocarbon refrigerant mixtures</a>,
+    <em>Chem. Rev.</em>, 2024, 124(9), 5167–5226                                                                                                                                 
+  </li>
 
+  <li>
+    <strong>Ning Wang</strong> and Edward J. Maginn*,
+    <a href="https://doi.org/10.1021/acs.jpcb.3c07238" target="_blank">
+      GAFF-based polarizable force field development and validation for ionic liquids</a>,
+    <em>J. Phys. Chem. B</em>, 2024, 128(3), 871–881
+    (<a href="https://github.com/MaginnGroup/Polarizable-GAFF-input-files" target="_blank">GitHub</a>)
+  </li>
 
+  <li>
+    <strong>Ning Wang</strong>, Montana N. Carlozo, Eliseo Marin-Rimoldi, Bridgette J. Befort, Alexander W. Dowling, Edward J. Maginn*,
+    <a href="https://doi.org/10.1021/acs.jctc.3c00338" target="_blank">
+      Machine learning-enabled development of accurate force fields for refrigerants</a>,
+    <em>J. Chem. Theory Comput.</em>, 2023, 19(14), 4546–4558
+    (<a href="https://github.com/dowlinglab/HFC-FFO" target="_blank">GitHub</a>)
+  </li>
+
+  <li>
+    <strong>Ning Wang</strong>, Ryan S. DeFever, Edward J. Maginn*,
+    <a href="https://doi.org/10.1021/acs.jctc.3c00206" target="_blank">
+      Alchemical free energy and Hamiltonian replica exchange molecular dynamics to compute hydrofluorocarbon isotherms in imidazolium-based ionic liquids</a>,
+    <em>J. Chem. Theory Comput.</em>, 2023, 19(11), 3324–3335
+    (<a href="https://github.com/MaginnGroup/HREX-workflow-source-code" target="_blank">GitHub</a>) CBE Outstanding Paper
+  </li>
+
+  <li>
+    <strong>Ning Wang</strong>, Yong Zhang, Karim S. Al-Barghouti, Rajkumar Kore, Aaron M. Scurto, Edward J. Maginn*,
+    <a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.2c05787" target="_blank">
+      Structure and dynamics of hydrofluorocarbon/ionic liquid mixtures: An experimental and molecular dynamics study</a>,
+    <em>J. Phys. Chem. B</em>, 2022, 126(41), 8309–8321
+  </li>
+
+  <li>
+    <strong>Ning Wang</strong>, Yong Zhang, Edward J. Maginn*,
+    <a href="https://doi.org/10.1016/j.jil.2022.100040" target="_blank">
+      Molecular dynamics study of the ionic liquid 1-n-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate ([C<sub>6</sub>C<sub>1</sub>im][FAP]): Force field development and the effect of [FAP]<sup>−</sup> isomer content on properties</a>,
+    <em>J. Ionic Liq.</em>, 2022, 2, 100040 (Journal cover)
+  </li>
+
+  <li>
+    Tianren Zhang, <strong>Ning Wang</strong>, Robert A. Riggleman*,
+    <a href="https://doi.org/10.1021/acs.macromol.2c01031" target="_blank">
+      Failure and mechanical properties of glassy diblock copolymer thin films</a>,
+    <em>Macromolecules</em>, 2022, 55(24), 10880–10890
+  </li>
+
+</ul>
