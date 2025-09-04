@@ -1,5 +1,5 @@
 ---
-permalink: /people/
+permalink: /People/
 layout: single
 author_profile: false
 sidebar:
