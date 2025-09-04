@@ -1,7 +1,7 @@
 ---
 permalink: /People/
 layout: single
-title: Meet out team!
+title: Meet our team!
 author_profile: false
 sidebar:
   nav: none
