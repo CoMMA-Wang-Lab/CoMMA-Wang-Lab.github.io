@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Our research group leverages molecular modeling and simulation, artificial intelligence (AI), and machine learning (ML) techniques to design and discover new materials, addressing technical challenges in climate change, water treatment, and chemical separation, and ultimately contributing to a sustainable future.
 
 ![research](/images/research.png)
