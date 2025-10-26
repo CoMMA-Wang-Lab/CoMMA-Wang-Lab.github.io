@@ -56,6 +56,16 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
+      <img src="../images/David.png" width="150px" style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <strong>David Mancilla</strong><br/>
+      David is a sophomore majoring in Chemical Engineering at the University of Texas at Tyler. His research interests lie at the intersection of computational and applied science, with a focus on molecular simulations and machine learning techniques-especially as they relate to organic synthesis. His goal is to help translate these advanced computational tools into practical solutions for pharmaceutical and medical applications. By leveraging molecular modeling to design novel compounds and applying Al to accelerate discovery, he's excited to contribute to the lab's mission of advancing sustainable and impactful chemical engineering research.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 160px; vertical-align: top;">
       <img src="../images/Zainab.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
