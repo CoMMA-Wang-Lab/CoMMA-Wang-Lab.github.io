@@ -8,7 +8,7 @@ classes: wide
 date: 2025-09-01
 ---
 
-### CHEN 4341/MENG 5340 - Special Topics: Machine Learning for Chemical Engineers 
+### CHEN 4341 - Special Topics: Machine Learning for Chemical Engineers 
 The University of Texas at Tyler, Spring 2026
 
 ### CHEN 3320 - Mass Transfer

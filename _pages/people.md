@@ -29,12 +29,11 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
-      <img src="../images/profile.png" width="150px" style="border-radius: 8px;" />
+      <img src="../images/Manish.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <strong>Could this be you?</strong><br/>
-      We are looking for a highly motivated postdoctoral researcher to join the CoMMA Lab.<br/>
-      More details can be found <a href="{{ '/positions/' | relative_url }}">here</a>.
+      <strong>Dr. Manish Maurya</strong><br/>
+      Manish is a computational researcher interested in molecular modeling and simulations of polymers, porous materials, and electrochemical interfaces for carbon capture and electrocatalysis. His work combines molecular dynamics, Monte Carlo, and DFT methods to understand the structure, dynamics, and reactivity at solid-liquid interfaces. During his PhD, he studied carbon-based materials for CO₂ capture, and in his postdoctoral research, he explored confined water behavior, polymer-ionic liquid interactions, and electrode microenvironments for CO electroreduction. His goal is to develop molecular-level insights that can guide the design of efficient materials for sustainable energy and environmental technologies.      
     </td>
   </tr>
 </table>
