@@ -42,11 +42,12 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
-      <img src="../images/Babangida.png" width="150px" style="border-radius: 8px;" />
+      <img src="../images/profile.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <strong>Babangida Abdulkadri Abdullahi</strong><br/>
-      Babangida is a graduate research assistant at CoMMA Laboratory, with an interest in advancing sustainable materials and energy through artificial intelligence, computer modelling and simulations.
+      <strong>Could this be you?</strong><br/>
+      Are you interested in joining the CoMMA Lab as a graduate researcher?  
+      We are looking for motivated students! Learn more <a href="/positions/">here</a>.
     </td>
   </tr>
 </table>
