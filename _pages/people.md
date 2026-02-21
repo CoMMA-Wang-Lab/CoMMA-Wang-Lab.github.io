@@ -29,11 +29,12 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
-      <img src="../images/Manish.png" width="150px" style="border-radius: 8px;" />
+      <img src="../images/profile.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <strong>Dr. Manish Maurya</strong><br/>
-      Manish is a computational researcher interested in molecular modeling and simulations of polymers, porous materials, and electrochemical interfaces for carbon capture and electrocatalysis. His work combines molecular dynamics, Monte Carlo, and DFT methods to understand the structure, dynamics, and reactivity at solid-liquid interfaces. During his PhD, he studied carbon-based materials for CO₂ capture, and in his postdoctoral research, he explored confined water behavior, polymer-ionic liquid interactions, and electrode microenvironments for CO electroreduction. His goal is to develop molecular-level insights that can guide the design of efficient materials for sustainable energy and environmental technologies.      
+      <strong>Could this be you?</strong><br/>
+      Are you interested in joining the CoMMA Lab as a postdoc?  
+      Learn more <a href="/positions/">here</a>.
     </td>
   </tr>
 </table>
@@ -42,12 +43,11 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
-      <img src="../images/profile.png" width="150px" style="border-radius: 8px;" />
+      <img src="../images/Rabeya.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <strong>Could this be you?</strong><br/>
-      Are you interested in joining the CoMMA Lab as a graduate researcher?  
-      We are looking for motivated students! Learn more <a href="/positions/">here</a>.
+      <strong>Rabeya Khan</strong><br/>
+      Rabeya Khan is joining the CoMMA Lab as a Graduate Research Assistant. She is a graduate in Electrical and Electronic Engineering with experience in Materials Science, Computational Modeling, Machine Learning, and Autonomous Systems. In the CoMMA lab, Rabeya will carry out DFT calculations and machine learning-enhanced simulations to develop accurate force fields and enable the computational characterization of advanced materials and fluid systems by studying electronic structures, intermolecular forces, and thermal properties. Rabeya is also interested in utilizing artificial intelligence to explore chemical and physical properties of materials.
     </td>
   </tr>
 </table>
@@ -75,5 +75,15 @@ sidebar:
   </tr>
 </table>
 
+<!--
+## Alumni
+<table>
+  <tr>
+    <td style="padding-bottom: 10px;">
+      <strong>Manish Mauriya</strong><br/>
+      Postdoctoral Fellow (11/2025–02/2026)
+    </td>
+  </tr>
 
-<!-- Add more members here -->
+</table>
+-->
