@@ -16,7 +16,8 @@ sidebar:
     <td style="vertical-align: top; padding-left: 20px;">
       <strong>Dr. Ning Wang</strong><br/>
       Assistant Professor, Department of Chemical Engineering, UT Tyler<br/>
-      Editorial Board Member, Journal of Ionic Liquids<br/> 
+      Editorial Board Member, Journal of Ionic Liquids<br/>
+      MolSSI ACT-CMS Faculty Fellow<br/> 
       Ph.D. in Chemical Engineering, University of Notre Dame<br/>
       M.S.E. in Materials Science and Engineering, University of Pennsylvania<br/>
       B.E. in Polymer Materials and Engineering, Beijing University of Chemical Technology<br/>
@@ -26,6 +27,7 @@ sidebar:
 </table>
 
 ## Postdoctoral Researcher
+<!--
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
@@ -38,7 +40,18 @@ sidebar:
     </td>
   </tr>
 </table>
-
+-->
+<table>
+  <tr>
+    <td style="width: 160px; vertical-align: top;">
+      <img src="../images/sudip.jpg" width="150px" style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <strong>Sudip Kumar Das</strong><br/>
+      Dr. Sudip Das is a postdoctoral research associate at CoMMA Lab. He is a Ph.D. graduate from the School of Chemical Engineering at Oklahoma State University. His research focused on understanding the molecular mechanisms of ionic liquid biodegradation using molecular dynamics simulations, density functional theory, and enhanced sampling techniques. He also served as an NSF intern at Oak Ridge National Laboratory. Prior to his doctoral studies, he worked in the lead-acid battery industry in Bangladesh. He holds a bachelor's degree in Chemical Engineering and Polymer Science from Shahjalal University of Science and Technology, Bangladesh. His research interests include multiscale modeling approaches combined with data-driven decision-making for property prediction in sustainable materials design.
+    </td>
+  </tr>
+</table>
 ## Graduate Researcher
 <table>
   <tr>
