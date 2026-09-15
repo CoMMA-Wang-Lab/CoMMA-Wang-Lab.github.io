@@ -9,7 +9,7 @@ date: 2025-09-01
 ---
 ## The University of Texas at Tyler
 ### **Fall 2026** 🍂
-- [CHEN 2310] - Introduction to Chemical Engineering 
+- [CHEN 2310](https://www.uttyler.edu/archive/syllabi/college-of-engineering/chemical-engineering/fall-2026/chen-2310-001-wang-fall-2026.pdf) - Introduction to Chemical Engineering 
 
 ### **Spring 2026** 🌸
 - [CHEN 4341](https://www.uttyler.edu/academics/colleges-schools/engineering/departments/chemical/files/spring-2026/chen-4341-001-wang-spring-2026.pdf) - Special Topics: Machine Learning for Chemical Engineers 

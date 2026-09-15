@@ -69,6 +69,16 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
+      <img src="../images/KaiRa.png" width="150px" style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <strong>Kai Ra U-Se</strong><br/>
+      Kai Ra U-Se is a freshman majoring in Chemical Engineering at UT Tyler. She joined the research team with a desire to gain hands-on research experience and learn more about the field of chemical engineering. She is excited to learn new skills, explore different areas of research, and contribute to the team as she grows academically and professionally.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 160px; vertical-align: top;">
       <img src="../images/David.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">

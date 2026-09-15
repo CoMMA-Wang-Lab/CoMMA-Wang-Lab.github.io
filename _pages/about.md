@@ -11,7 +11,7 @@ Our research group leverages molecular modeling and simulation, artificial intel
 
 ![research](/images/research.png)
 
-> "Alone we can do so little; together we can do so much." — Helen Keller
+> "Alone we can do so little; together we can do so much."
 
 We welcome interdisciplinary collaborations across industry and academia! Feel free to reach out via email:
 [Collaborate with us!](mailto:nwang@uttyler.edu)
