@@ -69,6 +69,16 @@ sidebar:
 <table>
   <tr>
     <td style="width: 160px; vertical-align: top;">
+      <img src="../images/Julyssa.png" width="150px" style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <strong>Julyssa Godina</strong><br/>
+      Julyssa Godina is a junior in Chemical Engineering at the University of Texas at Tyler. She has joined the team to gain research experience and to get familiar with molecular simulation. She is interested in understanding how the simulations can help provide environmental solutions. She hopes to gain insight of frontline machine learning research and make meaningful contributions. 
+    </td>
+  </tr> 
+
+  <tr>
+    <td style="width: 160px; vertical-align: top;">
       <img src="../images/KaiRa.png" width="150px" style="border-radius: 8px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
